@@ -1,0 +1,17 @@
+D:\My Codes\Windows Mobile Programming\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+D:\My Codes\Windows Mobile Programming\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+D:\My Codes\Windows Mobile Programming\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+D:\My Codes\Windows Mobile Programming\Assignment 2\Assignment2\Assignment2\obj\Debug\MainWindow.g.cs
+D:\My Codes\Windows Mobile Programming\Assignment 2\Assignment2\Assignment2\obj\Debug\App.g.cs
+D:\My Codes\Windows Mobile Programming\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+D:\My Codes\Windows Mobile Programming\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+D:\My Codes\Windows Mobile Programming\Assignment 2\Assignment2\Assignment2\obj\Debug\MainWindow.baml
+D:\My Codes\Windows Mobile Programming\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.g.resources
+D:\My Codes\Windows Mobile Programming\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+D:\My Codes\Windows Mobile Programming\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+D:\My Codes\Windows Mobile Programming\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+D:\My Codes\Windows Mobile Programming\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+D:\My Codes\Windows Mobile Programming\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+D:\My Codes\Windows Mobile Programming\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.csprojAssemblyReference.cache
+D:\My Codes\Windows Mobile Programming\Assignment 2\Assignment2\Assignment2\obj\Debug\About.g.cs
+D:\My Codes\Windows Mobile Programming\Assignment 2\Assignment2\Assignment2\obj\Debug\About.baml

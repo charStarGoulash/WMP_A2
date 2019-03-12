@@ -1,0 +1,44 @@
+﻿<!-- 
+ FILE : MainWindow.xaml
+ PROJECT : PROG2120 - Assignment #2
+ PROGRAMMER : Attila Katona
+ FIRST VERSION : 2018-10-08
+ DESCRIPTION : Builds the window with two text boxes. One for input from the user, one (read only) to
+               display the number of characters entered in a status bar dock panel. A top dock panel with options -
+               FILE/OPTIONS/HELP.
+-->
+    <Window x:Class="Assignment2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assignment2"
+        mc:Ignorable="d"
+        Title="Assignment 2" Height="450" Width="800" Closing="Window_Closing">
+   <DockPanel>
+        <Menu DockPanel.Dock="Top"> <!--Top menu with FILE, OPTIONS and HELP-->
+            <MenuItem Header="_File">
+                <MenuItem Header="_New" Click="New_Click" />
+                <MenuItem Header="_Open" Click="Open_Click" />
+                <MenuItem Header="_Save As" Click="SaveAs_Click" />
+                <Separator />
+                <MenuItem Header="_Exit" Click="Exit_Click" />
+            </MenuItem>
+            <MenuItem Header="_Options">
+                <MenuItem Header="_Format" Click="Format_Click" />
+            </MenuItem>
+            <MenuItem Header="_Help">
+                <MenuItem Header="_About" Click="About_Click" />
+            </MenuItem>
+        </Menu>
+        <StatusBar Name="status" DockPanel.Dock="Bottom">
+           Characters
+            <Separator></Separator>
+            <TextBox Name="statusTxt" BorderThickness="0" IsReadOnly="True"/>
+        </StatusBar>
+        <Grid Margin="5,5,5,5">
+            <TextBox Name="txtBox" AcceptsReturn="True" TextWrapping="Wrap" SpellCheck.IsEnabled="True" Language="en-US" AcceptsTab="True" TextChanged="txtBox_TextChanged" VerticalScrollBarVisibility="Auto" />            
+        </Grid>
+    </DockPanel>
+  
+</Window>
